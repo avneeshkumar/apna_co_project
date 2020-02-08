@@ -1,7 +1,7 @@
 mkdir apna_avneesh_project
 cd apna_avneesh_project
 virtualenv apna_env
-git clone <REPO URL>
+git clone https://github.com/avneeshkumar/apna_co_project.git
 source apna_env/bin/activate
 cd apna_co_project
 pip install -r requirements.txt
